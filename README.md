@@ -19,3 +19,5 @@ Sample website with plenty of files for demos
 This is a simple web project, deployment can be on any server or even local file system.
 
 ### How To Contribute
+
+Showing how to contribute in making github better.
