@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+   Raul Andaya   koolraul143@gmail.com   @koolraul143
+    
 # THANKS
 
     <name>
