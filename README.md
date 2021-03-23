@@ -1,6 +1,6 @@
 # Starter Web Repo Project
 
-This is a siple website project for shoting how to use Git and Github together. Adding a line for rebasing example.
+This is a siple website project for shoting how to use Git and Github together. Adding a line for rebasing example, then more changes from myfeature  too.
 
 ## Introduction
 
